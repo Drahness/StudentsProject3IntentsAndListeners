@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentsProject3IntentsAndListeners</string>
+    <!-- Menu strings -->
+    <string name="action_home_menu_item">Home</string>
+    <string name="action_services_menu_item">Services</string>
+    <string name="action_broadcast_menu_item">Broadcast</string>
+    <string name="action_intent_for_result_menu_item">Intents for result</string>
+    <!-- END: Menu strings -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title">Students project 3:</string>
+    <string name="subtitle">Intents and Listeners</string>
+
+</resources>

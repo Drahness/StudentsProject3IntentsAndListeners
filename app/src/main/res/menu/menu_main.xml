@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.studentsproject3intentsandlisteners.MainActivity">
+    <item
+        android:id="@+id/home_activity"
+        android:orderInCategory="100"
+        android:title="@string/action_home_menu_item"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/intents_activity"
+        android:title="@string/action_intent_for_result_menu_item" />
+    <item
+        android:id="@+id/broadcast_activity"
+        android:title="@string/action_broadcast_menu_item" />
+    <item
+        android:id="@+id/services_activity"
+        android:title="@string/action_services_menu_item" />
+</menu>
