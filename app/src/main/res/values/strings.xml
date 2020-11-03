@@ -12,4 +12,29 @@
     <string name="title">Students project 3:</string>
     <string name="subtitle">Intents and Listeners</string>
 
+    <string name="title_myintents">My Preferred Vocational Studies</string>
+    <string name="selected">Selected:</string>
+    <string-array name="dam1_array">
+        <item>ENG</item>
+        <item>FOL</item>
+        <item>PRG</item>
+        <item>EDD</item>
+        <item>SI</item>
+        <item>LMI</item>
+        <item>GBD</item>
+    </string-array>
+    <string name="dam1">DAM-1t</string>
+    <string name="dam2">DAM-2d</string>
+    <string-array name="dam2_array">
+        <item>PMDM</item>
+        <item>DI</item>
+        <item>SGE</item>
+        <item>PSP</item>
+        <item>AD</item>
+        <item>EIE</item>
+    </string-array>
+    <string name="asignaturas">My preferred vocational studies.</string>
+    <string name="button_finish">Return</string>
+    <string name="button_service_start">Start</string>
+    <string name="button_service_stop">Stop</string>
 </resources>

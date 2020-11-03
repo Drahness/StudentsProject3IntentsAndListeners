@@ -12,7 +12,7 @@ public abstract class MainMenu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle bundle) {
         super.onCreate(bundle);
-        setContentView(R.layout.activity_main);
+        //setContentView(R.layout.activity_main);
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
